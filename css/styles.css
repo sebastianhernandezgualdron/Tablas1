@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.table{
+    border-collapse:separate;
+}
+thead tr, th{
+    border: 2px solid peru;
+    background-color: wheat;
+}
