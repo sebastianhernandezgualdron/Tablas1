@@ -19,7 +19,7 @@
 .nombre{
     background-color:#F0B93D ;
     text-align: left;
-    border: 40% solid black;
+    
    
 }
 .semestre{
@@ -41,4 +41,7 @@
 .foot td{
     text-align: center;
     border: 2px solid black;
+}
+.def{
+    width: 20%;
 }
